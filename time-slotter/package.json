@@ -27,7 +27,7 @@
     "react-timeslot-calendar": "^0.2.0",
     "react-toggle": "^4.1.1",
     "react-toolbox": "^2.0.0-beta.13",
-    "shelljs": "^0.8.3",
+    "shelljs": "^0.8.5",
     "terminal-in-react": "^4.3.1",
     "zoom": "0.0.2"
   },
